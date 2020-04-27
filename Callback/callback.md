@@ -24,4 +24,7 @@
 ### Advanced
 
 - https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/how-to-join-promises
+
   > practice advance level questions
+
+- https://javascript.info/promise-error-handling
