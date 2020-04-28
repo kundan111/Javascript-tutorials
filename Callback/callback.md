@@ -28,3 +28,5 @@
   > practice advance level questions
 
 - https://javascript.info/promise-error-handling
+- https://javascript.info/promise-api
+- https://javascript.info/promisify
