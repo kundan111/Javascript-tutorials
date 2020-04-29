@@ -30,3 +30,6 @@
 - https://javascript.info/promise-error-handling
 - https://javascript.info/promise-api
 - https://javascript.info/promisify
+
+- https://javascript.info/microtask-queue
+- https://javascript.info/async-await
